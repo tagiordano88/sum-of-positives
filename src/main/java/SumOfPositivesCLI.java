@@ -7,5 +7,7 @@ public class SumOfPositivesCLI {
             }
         }
         System.out.println(sum);
+
+
+        }
     }
-}
